@@ -15,3 +15,9 @@ const sawon = document.getElementsByClassName("imp-place")
 for(const asad of sawon){
     console.log(asad.innerText)
 }
+
+const changes = document.getElementById("jhinuk");
+changes.innerText = "koi koi koi";
+
+const chan = document.getElementById("come");
+chan.innerText = "koi koi koi"
