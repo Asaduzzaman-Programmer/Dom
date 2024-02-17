@@ -33,3 +33,15 @@
 // document.getElementById("koi").style.color = "red"
 // document.getElementById("koi").style.textAlign = "center"
 
+const sections = document.querySelectorAll('section');
+for(const section of sections){
+    // console.log(section)
+    section.style.color = "yellow";
+    section.style.backgroundColor = "red";
+    section.style.width = "200px"
+    
+}
+
+const place = document.getElementById("jhinuk");
+place.classList.add("jhinuk")
+place.classList.remove("jhinuk")

@@ -5,3 +5,10 @@ h1{
 #jhinuk{
     color: pink
 } */
+
+.jhinuk {
+    width: 200px;
+    height: 40px;
+    padding: 10px, 5px;
+    background-color: rgb(235, 235, 235);
+}
