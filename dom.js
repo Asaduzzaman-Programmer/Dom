@@ -23,7 +23,13 @@
 // chan.innerText = "koi koi koi"
 
 
-const ojil = document.querySelectorAll(".sec li");
-for (const bal of ojil){
-    console.log(bal.innerText)
-}
+// const ojil = document.querySelectorAll(".sec li");
+// for (const bal of ojil){
+//     console.log(bal.innerText)
+// }
+
+// document.getElementById("jhinuk").style.color = "green"
+
+// document.getElementById("koi").style.color = "red"
+// document.getElementById("koi").style.textAlign = "center"
+
